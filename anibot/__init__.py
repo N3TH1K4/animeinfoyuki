@@ -8,7 +8,7 @@ BOT_NAME = "@Yukinonthecutebot"
 DB_URL = "mongodb+srv://TROJ3N:Nethika123@cluster0.uppg6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 ANILIST_CLIENT = "TROJ3N"
 ANILIST_SECRET = "KyiaqDvE9FyT0epLJyKXhQQx3IsPPFmMOQWE6YNM"
-ANILIST_REDIRECT_URL = "https://t.me/waifuNetwork"
+ANILIST_REDIRECT_URL = "https://t.me/tr0j3n"
 API_ID = "4091096"
 LOG_CHANNEL_ID = "1954364940"
 OWNER = list(filter(lambda x: x, map(int, os.environ.get("OWNER_ID", "").split())))
