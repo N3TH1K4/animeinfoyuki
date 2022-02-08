@@ -3,7 +3,7 @@ from pyrogram import Client
 
 TRIGGERS ="/"
 API_HASH = "6bb0682b4af56456201c3b9d8b99c94a"
-BOT_TOKEN = "2025919134:AAEiMUp8gZ3W2QD-YAgDpGZXcYol_RfEPWg"
+BOT_TOKEN = "2025919134:AAEtaYWwSrYcIQsK7-1zn5aA581bb0hDJNc"
 BOT_NAME = "@Yukinonthecutebot"
 DB_URL = "mongodb+srv://TROJ3N:Nethika123@cluster0.uppg6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 ANILIST_CLIENT = "TROJ3N"
